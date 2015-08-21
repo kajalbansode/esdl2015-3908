@@ -1,5 +1,9 @@
 hello...!!
 this is a calci program.....
-addition
+add
+sub
+mult
+div
+calculate
 thank you 
 byeeee
